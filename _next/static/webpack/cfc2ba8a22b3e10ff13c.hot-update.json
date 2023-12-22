@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/[lang]/news"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F%5Blang%5D%2Fnews&absolutePagePath=%2FUsers%2Ffusion%2Fwk%2Fleap%2Fleap-website%2Fsrc%2Fpages%2F%5Blang%5D%2Fnews%2Findex.js!","./node_modules/react-paginate/dist/react-paginate.js","./src/components/newsHome.tsx","./src/pages/[lang]/news/index.js"]}
